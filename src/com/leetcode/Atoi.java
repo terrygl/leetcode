@@ -2,6 +2,7 @@ package com.leetcode;
 
 /**
  * Created by geliang on 16/9/2.
+ * 8
  */
 public class Atoi {
     public int myAtoi(String str) {

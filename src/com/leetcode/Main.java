@@ -48,6 +48,11 @@ public class Main {
         System.out.println("Hello World!");
         TestHappy testHappy = new TestHappy();
         System.out.println(testHappy.isHappy(19));
+
+        for(int i=0;i<99;i++){
+            System.out.println(i);
+            i=i+5;
+        }
     }
 
 }
