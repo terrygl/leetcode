@@ -35,7 +35,7 @@ public class RomanToInt {
 //                    res+=romanMap.get(String.valueOf(s.charAt(m)));
 //            }
 //        }
-//        
+//
 //        return res;
         char[] c = s.toCharArray();
         int sum = 0;
