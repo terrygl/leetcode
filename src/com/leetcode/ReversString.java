@@ -30,6 +30,7 @@ public class ReversString {
         int j=s.length()-1;
         int i=0;
         char[] output =s.toCharArray();
+        
         char tmpChar =1;
         while(i<j){
             tmpChar = output[i];

@@ -1,8 +1,5 @@
 package com.leetcode;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * Created by geliang on 16/9/4.
  */
@@ -63,5 +60,5 @@ public class RomanToInt {
         return -1;
     }
 
-    }
+
 }
